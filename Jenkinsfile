@@ -1,7 +1,7 @@
 	node{
 	
 		stage('SCM'){
-			git 'https://gitlab.com/Sophie-Lmr/backendangularprojectdevops'
+			git 'https://github.com/Sophie-Lmr/BackendAngularProjectDevops'
 		}
 	
 		stage('Compile'){
